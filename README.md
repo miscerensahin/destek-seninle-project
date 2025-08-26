@@ -1,17 +1,17 @@
-# 🌱 Destek Seninle
+#  Destek Seninle
 
 **Destek Seninle**, ekonomik sebeplerle psikolojik destek alamayan üniversite sınavına hazırlanan öğrencilere gönüllü psikologlarla ücretsiz çevrimiçi destek sağlayan bir web platformudur.  
 
 ---
 
-## 🚀 Proje Amacı
+##  Proje Amacı
 - Psikolojik desteğe ihtiyacı olan mezun öğrencilere ücretsiz danışmanlık sağlamak  
 - Gönüllü psikologları öğrencilerle güvenli bir platformda buluşturmak  
 - Toplumsal dayanışmayı artırmak ve psikolojik destek erişimini kolaylaştırmak  
 
 ---
 
-## 📅 Proje Basamakları
+##  Proje Basamakları
 
 1. **Proje Beyanı**  
    Projenin amacı, kapsamı ve hedefleri belirlendi.  
