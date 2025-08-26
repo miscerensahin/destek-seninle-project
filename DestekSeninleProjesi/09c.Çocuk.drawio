@@ -1,0 +1,171 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
+  <diagram name="Sayfa -1" id="SCgy1fowCvYwvfG1P_QU">
+    <mxGraphModel dx="1603" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120.00000000000001;exitDy=45;exitPerimeter=0;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-7" target="TRAJRqdvlzYxqJqyJhvB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-2" value="Yetkinlik Bilgisi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRAJRqdvlzYxqJqyJhvB-1">
+          <mxGeometry x="-0.6003" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=65;exitDy=80;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-7" target="TRAJRqdvlzYxqJqyJhvB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-4" value="Üyelik Bilgileri" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRAJRqdvlzYxqJqyJhvB-3">
+          <mxGeometry x="0.4843" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=10;exitDy=80;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-7" target="TRAJRqdvlzYxqJqyJhvB-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-6" value="Başarılı Onay" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRAJRqdvlzYxqJqyJhvB-5">
+          <mxGeometry x="0.5703" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-7" value="Gönüllü&lt;div&gt;&amp;nbsp;Psikolog&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=10;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="34" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-10" target="TRAJRqdvlzYxqJqyJhvB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-9" value="Psikolog Bilgileri" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRAJRqdvlzYxqJqyJhvB-8">
+          <mxGeometry x="0.3146" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-10" value="1.1" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="234" y="260" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-11" value="Kullanıcı Türü&amp;nbsp;&lt;div&gt;Belirleme&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;gradientColor=default;" vertex="1" parent="TRAJRqdvlzYxqJqyJhvB-10">
+          <mxGeometry y="20" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-12" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Psikolog&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="414" y="140" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-13" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;D1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="384" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-15" target="TRAJRqdvlzYxqJqyJhvB-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-15" value="1.2" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="234" y="380" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-16" value="Psikolog Hesap Oluşturma" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;gradientColor=default;" vertex="1" parent="TRAJRqdvlzYxqJqyJhvB-15">
+          <mxGeometry y="20" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-18" target="TRAJRqdvlzYxqJqyJhvB-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-18" value="1.3" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="234" y="520" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-19" value="Giriş Yapma" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;gradientColor=default;" vertex="1" parent="TRAJRqdvlzYxqJqyJhvB-18">
+          <mxGeometry y="20" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-22" target="TRAJRqdvlzYxqJqyJhvB-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-21" value="Paket Bilgisi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRAJRqdvlzYxqJqyJhvB-20">
+          <mxGeometry x="0.1617" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-22" value="1.4" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="234" y="630" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-23" value="Kimlik Doğrulama" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;gradientColor=default;" vertex="1" parent="TRAJRqdvlzYxqJqyJhvB-22">
+          <mxGeometry y="20" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.403;entryY=0.965;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-18" target="TRAJRqdvlzYxqJqyJhvB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-25" value="Onay ve Bilgilendirme" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRAJRqdvlzYxqJqyJhvB-24">
+          <mxGeometry x="-0.5826" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-26" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Psikolog&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="374" y="850" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-27" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;D1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="344" y="850" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="564" y="382.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-29" value="Psikolog Bilgileri" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRAJRqdvlzYxqJqyJhvB-28">
+          <mxGeometry x="-0.4945" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-30" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-11" target="TRAJRqdvlzYxqJqyJhvB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-31" value="1.5" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="414" y="710" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-32" value="Uygunluk Belirtme" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;gradientColor=default;" vertex="1" parent="TRAJRqdvlzYxqJqyJhvB-31">
+          <mxGeometry y="20" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-33" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; color: rgb(0, 0, 0);&quot;&gt;3&lt;/font&gt;&lt;/font&gt;" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="494" y="320" width="160" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-34" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Randevu Sistemi&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" vertex="1" parent="TRAJRqdvlzYxqJqyJhvB-33">
+          <mxGeometry y="26" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-32" target="TRAJRqdvlzYxqJqyJhvB-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-36" value="Uygunluk Bilgisi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRAJRqdvlzYxqJqyJhvB-35">
+          <mxGeometry x="-0.1504" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-41" target="TRAJRqdvlzYxqJqyJhvB-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-38" value="Randevular" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRAJRqdvlzYxqJqyJhvB-37">
+          <mxGeometry x="0.4036" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-41" target="TRAJRqdvlzYxqJqyJhvB-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-40" value="Randevu&lt;div&gt;Bilgileri&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRAJRqdvlzYxqJqyJhvB-39">
+          <mxGeometry x="0.3634" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-41" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; color: rgb(0, 0, 0);&quot;&gt;&amp;nbsp;D3&amp;nbsp; &amp;nbsp;Randevu Kayıtları&lt;/font&gt;&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="654" y="470" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TRAJRqdvlzYxqJqyJhvB-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="594" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-43" value="Güncelleme" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TRAJRqdvlzYxqJqyJhvB-42">
+          <mxGeometry x="-0.2095" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-44" value="1.6" style="swimlane;whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="424" y="570" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TRAJRqdvlzYxqJqyJhvB-45" value="Randevu Takip ve Kontrol" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;gradientColor=default;" vertex="1" parent="TRAJRqdvlzYxqJqyJhvB-44">
+          <mxGeometry y="20" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

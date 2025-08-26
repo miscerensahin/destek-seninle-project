@@ -1,0 +1,40 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Sayfa -1" id="MSugK3JB3EtpLms7Q55_">
+    <mxGraphModel dx="120" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DkaU_ReXVQGVYmcCWKqB-22" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkaU_ReXVQGVYmcCWKqB-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DkaU_ReXVQGVYmcCWKqB-23" target="DkaU_ReXVQGVYmcCWKqB-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkaU_ReXVQGVYmcCWKqB-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DkaU_ReXVQGVYmcCWKqB-23" target="DkaU_ReXVQGVYmcCWKqB-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkaU_ReXVQGVYmcCWKqB-23" value="BAŞVURU DURUMU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkaU_ReXVQGVYmcCWKqB-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DkaU_ReXVQGVYmcCWKqB-26" target="DkaU_ReXVQGVYmcCWKqB-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkaU_ReXVQGVYmcCWKqB-26" value="İLK BAŞVURU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkaU_ReXVQGVYmcCWKqB-27" value="OTOMATİK ONAYI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="-1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkaU_ReXVQGVYmcCWKqB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DkaU_ReXVQGVYmcCWKqB-28" target="DkaU_ReXVQGVYmcCWKqB-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DkaU_ReXVQGVYmcCWKqB-28" value="2. VEYA SONRAKİ&lt;div&gt;BAŞVURULAR&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DkaU_ReXVQGVYmcCWKqB-32" value="PSİKOLOG ONAYINA GÖNDERME" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="-810" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
