@@ -1,6 +1,6 @@
 #  Destek Seninle
 
-**Destek Seninle**, ekonomik sebeplerle psikolojik destek alamayan üniversite sınavına hazırlanan öğrencilere gönüllü psikologlarla ücretsiz çevrimiçi destek sağlayan bir web platformudur.  
+**Destek Seninle**, ekonomik sebeplerle psikolojik destek alamayan ve üniversite sınavına hazırlanan öğrencilere gönüllü psikologlarla ücretsiz çevrimiçi destek sağlayan bir web platformudur.  
 
 ---
 
